@@ -1,0 +1,25 @@
+* 변수와 데이터형 *
+1. {0}은 첫 번째(=0번째) 값을 의미
+
+2. String.Format()
+   Console.WriteLine("이름 = {0}, 나이 = {1}", "둘리", 35);
+
+3. Console.WrtieLine("{0:D} {1:D}", 100, 200);
+
+4. 서식 : C, D, E, F, N, P, X
+
+5. Escape 문자 : \n, \t, \d, \\, \", \'
+
+6. 변수 : 대소문자 구분, 문자/숫자/언더바, 숫자로 시작은 안됨, 예약어 안됨
+
+7. 변수 종류 : 변수명.GetType()
+
+8. int var1, var2;
+   var1 = var2 = 100;
+
+9. n bit로 표현 가능한 가짓수 : 2^n
+
+10. Convert.ToString(숫자, 진수)
+  Convert.ToInt32(문자열, 진수)
+
+11. 데이터 형식 : 정수형(s/u), 실수형(float, double, decimal), 불형(bool), 문자형(char), 문자열형(string), var 
