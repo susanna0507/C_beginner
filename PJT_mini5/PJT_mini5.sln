@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PJT_mini5", "PJT_mini5.csproj", "{A2FC60FB-57D2-4062-B2D7-70BACE937828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2FC60FB-57D2-4062-B2D7-70BACE937828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FC60FB-57D2-4062-B2D7-70BACE937828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FC60FB-57D2-4062-B2D7-70BACE937828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FC60FB-57D2-4062-B2D7-70BACE937828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A8424E7-F723-4E52-8DB3-D3068E6A1B94}
+	EndGlobalSection
+EndGlobal

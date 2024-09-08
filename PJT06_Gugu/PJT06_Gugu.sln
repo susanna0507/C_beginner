@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PJT06_Gugu", "PJT06_Gugu.csproj", "{3ABF77FE-A3C6-4602-91F8-E9A5A4591AC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABF77FE-A3C6-4602-91F8-E9A5A4591AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABF77FE-A3C6-4602-91F8-E9A5A4591AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABF77FE-A3C6-4602-91F8-E9A5A4591AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABF77FE-A3C6-4602-91F8-E9A5A4591AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90A36E05-CCB0-46DA-921C-11D8C0C24F9F}
+	EndGlobalSection
+EndGlobal
